@@ -1,0 +1,1 @@
+# chainOfResponsibilityPattern
